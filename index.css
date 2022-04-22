@@ -13,9 +13,9 @@ body{
   min-height: 100vh;
   background: linear-gradient(#00C6FF, #0078FF);
 
-.container{
+/* .container{
   width: 500px;
   background: #fff;
   border-radius: 10px;
   box-shadow: 0 12px 28px rgba(0, 0, 0, 0.12);
-}
+} */
